@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_58872_needit_needs_incidents_for_user" version="2" view="">
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>ni_number</element>
+            <list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 14:19:56</sys_created_on>
+            <sys_id>609dc3c01bfd301026c7c841604bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 14:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>inc_number</element>
+            <list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 14:19:56</sys_created_on>
+            <sys_id>e09dc3c01bfd301026c7c841604bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 14:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>ni_u_requested_for</element>
+            <list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 14:19:56</sys_created_on>
+            <sys_id>649dc3c01bfd301026c7c841604bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 14:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>inc_assigned_to</element>
+            <list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 14:19:56</sys_created_on>
+            <sys_id>e49dc3c01bfd301026c7c841604bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 14:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>ni_ciruit_ids</element>
+            <list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 14:19:56</sys_created_on>
+            <sys_id>689dc3c01bfd301026c7c841604bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 14:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>ni_description</element>
+            <list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 14:19:56</sys_created_on>
+            <sys_id>e89dc3c01bfd301026c7c841604bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 14:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>ni_short_description</element>
+            <list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 14:19:56</sys_created_on>
+            <sys_id>6c9dc3c01bfd301026c7c841604bcb71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 14:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_58872_needit_needs_incidents_for_user</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2021-08-01 14:28:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9c29fc671b7be01032182f8dee4bcbe6</instance_id>
+        <instance_name>dev113312</instance_name>
+        <name>sys_ui_list_x_58872_needit_needs_incidents_for_user_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_58872_needit_needs_incidents_for_user" version="2" view=""><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>ni_number</element><list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-01 14:19:56</sys_created_on><sys_id>609dc3c01bfd301026c7c841604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-01 14:19:56</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>inc_number</element><list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-01 14:19:56</sys_created_on><sys_id>e09dc3c01bfd301026c7c841604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-01 14:19:56</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>ni_u_requested_for</element><list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-01 14:19:56</sys_created_on><sys_id>649dc3c01bfd301026c7c841604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-01 14:19:56</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>inc_assigned_to</element><list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-01 14:19:56</sys_created_on><sys_id>e49dc3c01bfd301026c7c841604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-01 14:19:56</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>ni_ciruit_ids</element><list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-01 14:19:56</sys_created_on><sys_id>689dc3c01bfd301026c7c841604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-01 14:19:56</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>ni_description</element><list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-01 14:19:56</sys_created_on><sys_id>e89dc3c01bfd301026c7c841604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-01 14:19:56</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>ni_short_description</element><list_id display_value="x_58872_needit_needs_incidents_for_user" element="NULL" name="x_58872_needit_needs_incidents_for_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a49dc3c01bfd301026c7c841604bcb70</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-01 14:19:56</sys_created_on><sys_id>6c9dc3c01bfd301026c7c841604bcb71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-01 14:19:56</sys_updated_on></sys_ui_list_element><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_58872_needit_needs_incidents_for_user</name><parent/><position/><relationship/><sum>false</sum><sys_class_name/><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id/><sys_mod_count/><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2021-08-01 14:28:50</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-498756306</payload_hash>
+        <record_name>DB User view</record_name>
+        <reverted_from/>
+        <source>059bc3401bfd301026c7c841604bcb05</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mino.v</sys_created_by>
+        <sys_created_on>2021-08-01 14:28:50</sys_created_on>
+        <sys_id>f29f0f041bfd301026c7c841604bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b021e11c10000001</sys_recorded_at>
+        <sys_updated_by>mino.v</sys_updated_by>
+        <sys_updated_on>2021-08-01 14:28:50</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>3e9f0f0461fd30104070672618a34cb3</update_guid>
+        <update_guid_history>3e9f0f0461fd30104070672618a34cb3:-498756306,729f0f040afd30105e3eb4ef989c63ae:-1471548560,369f8b042afd3010c0087b9ac59e8da7:-1364842648,098fcb04dafd301029c14b4aeda9ff94:-1813398258,b1aecfc034fd301000f61d8ed8345cd2:391488828,d16e4fc018fd301065d082046da91138:8405756,a09dc3c02efd3010525dc1e89c267373:1577144508,7fdb0f405afd30103021271dada3e83d:531344420,eddf4a4c3a3d301091f1681d399f21bf:754595386</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mino.v</sys_created_by>
+        <sys_created_on>2021-08-01 14:28:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>7a2cfc01595d41778942c19b3d95a101</sys_id>
+        <sys_metadata>a49dc3c01bfd301026c7c841604bcb70</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needs_incidents_for_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_58872_needit_needs_incidents_for_user_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_58872_needit_needs_incidents_for_user_null">f29f0f041bfd301026c7c841604bcbb4</sys_update_version>
+        <sys_updated_by>mino.v</sys_updated_by>
+        <sys_updated_on>2021-08-01 14:28:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

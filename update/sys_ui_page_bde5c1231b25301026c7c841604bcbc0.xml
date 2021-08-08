@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[function confirm(needs, answer) {
+	var ga = new GlideAjax('updateNeeds');
+	ga.addParam('sysparm_name','getNeeds');
+	ga.addParam('sysparm_needs',needs);
+	ga.addParam('sysparm_answer', answer);
+	ga.getXML(cb);
+	
+	function cb(response) {
+		var answer = response.responseXML.documentElement.getAttribute("answer");
+		console.log(answer);
+		GlideModal.get().destroy();
+		reloadWindow(window);
+	}
+}
+
+function cancel() {
+	GlideModal.get().destroy();
+}]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_58872_needit_bulk_update.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<j:set var="jvar_needs" value="${sysparm_needs}"/>
+	
+	<button onClick='confirm("${jvar_needs}", "Yes")'>Yes</button>
+	<button onClick='confirm("${jvar_needs}", "No")'>No</button>
+	<button onClick='cancel()'>Cancel</button>
+	
+
+</j:jelly>]]></html>
+        <name>bulk_update</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-30 15:11:32</sys_created_on>
+        <sys_id>bde5c1231b25301026c7c841604bcbc0</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>bulk_update</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_page_bde5c1231b25301026c7c841604bcbc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-31 09:21:07</sys_updated_on>
+    </sys_ui_page>
+</record_update>
